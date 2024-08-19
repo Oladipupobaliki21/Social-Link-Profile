@@ -68,7 +68,7 @@ a {
     }
     @media (max-width: 375px){
         body{
-           width: 100%;
+           width: 375px;
            height: 100%;
         }
         .parent{
