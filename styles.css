@@ -47,6 +47,9 @@ button{
     text-decoration: none;
     cursor: pointer;
 }
+button a:hover{
+    background-color: yellow;
+}
 img{
     width: 200px;
     display: flex;
